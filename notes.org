@@ -13,6 +13,10 @@ accounting.  Similarly, what was wrong at Enron?
 Summarize what an LBO is and discuss its motivation and the implication for
 the firm in terms of ownership, control, and debt.
 
+* Public vs Private Firms
+
+What does a public firms have to do that a private firm doesn't?
+-  Think in terms of financial reporting.
 
 * Aggressive Expansion
 
@@ -25,9 +29,10 @@ effect of aggressive expansion on the Balance sheet.  Discuss IGR and SGR.
 Krispy Kreme will ultimately use "external financing" through new franchisee
 fees.  What type of financing (debt or equity) is a financing fee?
 
-
 Do you think KK had the balance sheet to expand as quickly as they proposed?
 Could the bad accounting merely be a symptom of an overly aggressive expansion plan?
+
+- The human element---what happens if a CEO can't deliver on a promise?
 
 * Asymmetric Information, financial statements, and firm value
 
