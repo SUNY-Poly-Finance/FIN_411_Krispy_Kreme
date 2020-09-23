@@ -42,7 +42,9 @@ future cash flows from assets.
 
 * Analyst Track Record
 
-In what way was the analyst recommendations correlated with the stock price?  
+In what way was the analyst recommendations correlated with the stock price?
+
+-  Is there system of incentives which cause an analyst's recommendations to be biased in favor of high ratings?
 
 * What makes financial statements required?  
 
