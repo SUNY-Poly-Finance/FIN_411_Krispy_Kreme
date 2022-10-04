@@ -1,6 +1,6 @@
 #+TITLE: Krispy Kreme
 #+author: Matt Brigida, Ph.D.
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 
 * Repo 105
@@ -52,3 +52,6 @@ Bond protective covenants, and stock market listing requirements and their
 implications if you don't file on time. Missing financial statements means
 debt can be called, which may cause default.  See page 106.
 
+* Specific Accounting Problem
+
+KK was buying back franchises.  Common sense says this should cost KK, however due to the way they were booking it the purchases were a revenue *source*.
