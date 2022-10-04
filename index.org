@@ -55,3 +55,17 @@ debt can be called, which may cause default.  See page 106.
 * Specific Accounting Problem
 
 KK was buying back franchises.  Common sense says this should cost KK, however due to the way they were booking it the purchases were a revenue *source*.
+
+** Franchise Purchase Deal
+
+-  Franchisee closes stores and pays KK (corporate) accrued interest on past-due loans.
+-  This was recorded on the income statement as interest income.  <--- we are fine at this point.
+-  The purchase cost of the franchise was booked as an intangible asset (reacquired franchise rights).
+-  The implication is that the purchase price is not amortized, meaning it doesn't show up on the income statement.
+-  Also severance payments were not amortized.
+-  Net effect, buying back franchises increases income.
+
+This treatment was /fine/ by GAAP, but was not used by any other firms.
+
+-  So did the market think the company was using this accounting approach?
+-  If not, what effect does this have on asymmetric information?  What about on stock volatility?
